@@ -125,7 +125,7 @@ class SiteController extends Controller
         return $this->render('about');
     }
     
-     public function actionTest()
+     public function actionTest1()
     {
          $model = new LoginForm();
         return $this->render('about');
